@@ -8,7 +8,7 @@ Download the train and test dataset in csv format
 2. Divide it into "Train" and "Validate" parts
 3. Train the neural network with linear layer and activation layer.
 4. Run the hyperparameter search grid to find the best hyperparameter.
-5. Train the model based onsearched parameters.
+5. Train the model based on searched parameters.
 6. Observe that both training and validation accuracy have increased to over 90%. 
 
 ## Testing steps
